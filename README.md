@@ -14,7 +14,10 @@ This directory contains the <i>true key classes</i> in each subject system. We c
 # Results
 This directory contains the results obtained in the experiments. We use these results to answer the research questions, RQ1 and RQ2. We can use the data in RQ1 to answer RQ3. 
 
-## Results/RQ1/Precision and Results/RQ1/F<sub>1</sub>
-These two directories contain the <i>precision</i> and <i>F<sub>1</sub></i> results of iFit and eight other approaches in the baseline, respectively. 
+## Results/RQ1/Recall|Precision|F<sub>1</sub>
+These three directories contain the <i>recall</i>, <i>precision</i>, and <i>F<sub>1</sub></i> results of iFit and eight baseline approaches when we examine k% (k<15) of the top-ranked classes.
 
-Because there is greater redundancy in reporting <i>Precision</i>, <i>Recall</i>, and <i>F<sub>1</sub></i> at the same times. Due to space limitation, we do not put the <i>precision</i> and <i>F<sub>1</sub></i> results in our manuscript. ``The file Results/RQ1/reasons.pdf provides a detailed description of the reason why we only reported the <i>Recall</i> results in our manuscript.``
+## Results/RQ2/Recall|Precision|F<sub>1</sub>
+These three directories contain the <i>recall</i>, <i>precision</i>, and <i>F<sub>1</sub></i> results of iFit and eight baseline approaches when we examine the top-30 ranked classes.
+
+``Because there is greater redundancy in reporting <i>Precision</i>, <i>Recall</i>, and <i>F<sub>1</sub></i> at the same times. Due to space limitation, we do not put the <i>precision</i> and <i>F<sub>1</sub></i> results in our manuscript. The file Results/RQ1/reasons.pdf provides a detailed description of the reason why we only reported the <i>Recall</i> results in our manuscript.``
