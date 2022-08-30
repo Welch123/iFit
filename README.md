@@ -17,4 +17,4 @@ This directory contains the results obtained in the experiments. We use these re
 ## Results/RQ1/Precision and Results/RQ1/F<sub>1</sub>
 These two directories contain the <i>precision</i> and <i>F<sub>1</sub></i> results of iFit and eight other approaches in the baseline, respectively. 
 
-Because there is greater redundancy in reporting <i>Precision</i>, <i>Recall</i>, and <i>F<sub>1</sub></i> at the same times. Due to space limitation, we do not put the <i>precision</i> and <i>F<sub>1</sub></i> results in our manuscript. ``The file reasons.pdf provides a detailed description of the reason why we only reported the <i>Recall</i> results in our manuscript.``
+Because there is greater redundancy in reporting <i>Precision</i>, <i>Recall</i>, and <i>F<sub>1</sub></i> at the same times. Due to space limitation, we do not put the <i>precision</i> and <i>F<sub>1</sub></i> results in our manuscript. ``The file Results/RQ1/reasons.pdf provides a detailed description of the reason why we only reported the <i>Recall</i> results in our manuscript.``
