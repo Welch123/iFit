@@ -1,7 +1,7 @@
 # Introduction
 This is the replication package for our work submitted to ICSE 2023.
 
-<font color="#FF0000">Note that</font> we only provide the data set used in our work. Tools used to perform the work will be available after our paper's acceptance.
+'Note that we only provide the data set used in our work. Tools used to perform the work will be available after our paper's acceptance.'
 
 # CSN<sub>WD</sub>
 This directory contains the CSN<sub>WD</sub> that we built for all the subject systems used in our experiments. There are three versions of CSN<sub>WD</sub>s according to different weighting mechanisms.
