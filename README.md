@@ -3,6 +3,13 @@ This is the replication package for our work submitted to ICSE 2023.
 
 ``Note that we only provide the data set used in our work. Tools used to perform the work will be available after our paper's acceptance.``
 
+# Appendix
+This directory contains the appendices used in our manuscript to explain some concepts and formulas.
+- Appendix-A contains an exmaple to illustrate the process to build CSN_WD for a code snippet.
+- Appendix-B describes the baseline approach in details.
+- Appendix-C shows the results obtained on the whole set of subject systems.
+- ``Appendix-D gives an example to illustrate the process to compute the CG value for a specific class.``
+
 # CSN<sub>WD</sub>
 This directory contains the CSN<sub>WD</sub> that we built for all the subject systems used in our experiments. There are three versions of CSN<sub>WD</sub>s according to different weighting mechanisms (i.e., OWM, EWM and DWM).
 
