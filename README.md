@@ -17,6 +17,9 @@ This directory contains the CSN<sub>WD</sub> that we built for all the subject s
 
 ``We made the class names in these files anonymous, which will be recovered after the acceptance of our work.``
 
+# Code
+``This directory is now NULL. But it will be used to contain the implementations of iFit and the eight baseline approaches after the acceptance of our work.``
+
 # goldset
 This directory contains the <i>true key classes</i> in each subject system. We collected this data set from the literature.
 
