@@ -10,7 +10,7 @@ This directory contains the appendices used in our manuscript to explain some co
 - Appendix-C shows the results obtained on the whole set of subject systems.
 - Appendix-D gives an example to illustrate the process to compute the CG value for a specific class.
  
-``Appendix-D is not mentioned in the manuscript.``
+``Appendix-D is not mentioned in the manuscript. We prepared it for interested readers as a reference.``
 
 # CSN<sub>WD</sub>
 This directory contains the CSN<sub>WD</sub> that we built for all the subject systems used in our experiments. There are three versions of CSN<sub>WD</sub>s according to different weighting mechanisms (i.e., OWM, EWM and DWM).
