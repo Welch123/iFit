@@ -6,7 +6,7 @@ This is the replication package for our work submitted to ICSE 2023.
 # Appendix
 This directory contains the appendices used in our manuscript to explain some concepts and formulas.
 - Appendix-A contains an exmaple to illustrate the process to build CSN_WD for a code snippet.
-- Appendix-B describes the baseline approach in details.
+- Appendix-B describes the baseline approaches in details.
 - Appendix-C shows the results obtained on the whole set of subject systems.
 - Appendix-D gives an example to illustrate the process to compute the CG value for a specific class.
  
