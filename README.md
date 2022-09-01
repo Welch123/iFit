@@ -26,7 +26,7 @@ This directory contains the <i>true key classes</i> in each subject system. We c
 # Results
 This directory contains the results obtained in the experiments. We use these results to answer the research questions, RQ1 and RQ2. We can use the data in RQ1 to answer RQ3.
 
-``Because there is greater redundancy in reporting Precision, Recall, and F1 at the same time. Due to space limitation, we do not put the precision and F1 results in our manuscript. The file Results/RQ1/reasons.pdf provides a detailed description of the reason why we only reported the Recall results in our manuscript.``
+``Because there is greater redundancy in reporting Precision, Recall, and F1 at the same time. Due to space limitations, we do not put the precision and F1 results in our manuscript. The file Results/RQ1/reasons.pdf provides a detailed description of the reason why we only reported the Recall results in our manuscript.``
 
 ## Results/RQ1/Recall|Precision|F<sub>1</sub>
 These three directories contain the <i>recall</i>, <i>precision</i>, and <i>F<sub>1</sub></i> results of iFit and eight baseline approaches when we examine k% (k<15) of the top-ranked classes.
