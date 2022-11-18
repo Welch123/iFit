@@ -1,0 +1,5 @@
+,h-index,a-index,k-core,PageRank,PageRank_BR,ICOOK,ElementRank,Pride,iFit
+better counts,1,0,0,0,0,0,0,0,5
+no-worse counts,4,0,3,0,0,5,0,9,17
+better %,0.0556 ,0.0000 ,0.0000 ,0.0000 ,0.0000 ,0.0000 ,0.0000 ,0.0000 ,0.2778 
+no-worse %,0.2222 ,0.0000 ,0.1667 ,0.0000 ,0.0000 ,0.2778 ,0.0000 ,0.5000 ,0.9444 
